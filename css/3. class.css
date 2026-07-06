@@ -1,0 +1,12 @@
+.txt clr grn{
+    color: greenyellow;
+}
+.txt clr blu{
+    color: rgb(88, 88, 150);
+}
+.txt bg clr blk{
+    background-color: black;
+}
+.txt bg clr gry{
+    background-color: khaki;
+}
