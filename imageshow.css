@@ -1,0 +1,49 @@
+h1{
+    text-align: center;
+}
+
+.image1 > img{
+     margin: 200 0 0 200;
+    width:200px;
+    height:220px;
+   
+   
+    
+}
+
+.venky{
+    position:relative;
+    left:0px;
+
+}
+
+.virat{
+      position: relative;
+    left: -90px;
+    top: 50px; 
+   
+}
+
+.padical{
+      position:relative;    
+      left: -180px;
+    top: 100px; 
+}
+
+.rajat{
+      position:relative;
+    left: -270px;
+    top: 150px; 
+}
+
+.kp{
+      position:relative;
+    left: -360px;
+    top: 200px; 
+}
+
+.tim{
+     position:relative;
+    left: -450px;
+    top: 250px; 
+}
