@@ -4,8 +4,11 @@ body{
 }
 
 .head{
+   
     position: sticky;
+    top: 0;
     display: flex;
+     align-items: center;
     background-color: rgb(5, 1, 14);
     border-radius: 20px;
     margin: 10px;
@@ -16,11 +19,41 @@ body{
     width: 60px;
     height: 60px;
     border-radius: 10px;
-    box-shadow: 10px gray;
+    box-shadow: 3px 4px 10px gray;
+}
+
+.head h1{
+    color: silver;
+    font-weight: bold;
+    
 }
 
 .head a{
     color: goldenrod;
     text-decoration: none;
-    
+   font-weight: bold;
+}
+
+.head button{
+   margin-left: auto;
+    color: silver;
+    background-color: rgb(3, 136, 16);
+    border-radius: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    width: 150px;
+    height: 50px;
+}
+
+
+.content{
+    align-items: center;
+}
+.content h1{
+    color: silver;
+    font-weight: bold;
+}
+.content p{
+    color: rgb(185, 198, 66);
+    font-weight: bold;
 }
